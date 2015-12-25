@@ -3,7 +3,11 @@ layout: post
 title: "TIL: Batch resize images and create animated gifs from command line"
 date: 2015-03-03 12:31:08 +0100
 comments: true
-tags: imagemagick, convert, mogrify, gif
+tags:
+- imagemagick
+- convert
+- mogrify
+- gif
 ---
 
 Today I needed to combine some of my pictures from my mobile to an animated gif. Since using GUI tools is no option of course, here is how to do it from the command line.
@@ -42,4 +46,3 @@ convert -delay 35 -loop 0 *.jpg output/animated.gif
 ```
 
 and your done, your gif will be placed in the output folder.
-

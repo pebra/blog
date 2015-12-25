@@ -1,6 +1,10 @@
 title: Setting up Syncthing on Raspberry PI 2 as "always ON" device
 date: 2015-08-23 20:49:20
-tags: syncthing, raspberry, pi, android
+tags:
+- syncthing
+- raspberry
+- pi
+- android
 ---
 
 [{% img center /static/images/logo-horizontal.svg %}]({{root_url}}static/images/logo-horizontal.svg)
@@ -91,12 +95,11 @@ If you are running Arch Linux on your machine it is as easy as this
     systemctl --user enable syncthing.service
     systemctl --user start syncthing.service
 
-## Setup your to be synced Folders and such
+## Set up your synced Folders and such
 
-Please see the [documentation](http://docs.syncthing.net/intro/getting-started.html) for all the configuration web GUI stuff, it's very comprehensive.
+Please see the [documentation](http://docs.syncthing.net/intro/getting-started.html) for all the configuration and Web GUI stuff, it's very comprehensive.
 
 ## Conclusion
 
 I am really satisfied with this solution as my Dropbox alternative, everything seems to work well and I hope my
 few notes on setting it up on the Raspberry PI will save you some time while setting up your own Syncthing!
-

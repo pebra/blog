@@ -4,7 +4,10 @@ title: "Installing OpenWrt on WD MyNet N600"
 date: 2014-02-07 12:00
 published: true
 comments: true
-tags: n600 openwrt western digital
+tags:
+- n600
+- openwrt
+- western digital
 ---
 
 In order to access the PI from outside my local network I need to keep track of my home's IP address. Since I have no static IP at home I'll have to deal with DDNS.

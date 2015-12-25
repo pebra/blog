@@ -3,7 +3,10 @@ layout: post
 title: "Keep your data at home"
 date: 2014-02-07 16:00
 comments: true
-tags: raspberry pi arch linux privacy
+tags:
+- raspberry pi
+- arch linux
+- privacy
 ---
 
 While services like Dropbox or Box.com are great for collaborative work and stuff, I always feel kind of afraid putting more personal data in there.

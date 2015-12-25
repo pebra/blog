@@ -3,7 +3,11 @@ layout: post
 title: "Installing Arch Linux on the Raspberry Pi"
 date: 2014-02-16 11:22
 comments: true
-tags: linux rapsberry pi arch
+tags:
+- linux
+- rapsberry
+- pi
+- arch linux
 ---
 
 [{% img center /static/images/pisd.JPG %}]({{root_url}}/images/pisd.JPG)
