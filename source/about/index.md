@@ -11,7 +11,7 @@ I'm Peter.
 
 ### What I do
 
-Ruby on Rails, Ruby and Javascript for a living at ObjectFab GmbH in Dresden, Germany.
+Ruby on Rails, Ruby, Javascript and Scala at XING Ag in Hamburg, Germany.
 
 Elixir, Phoenix and all kinds of other stuff for fun =)
 

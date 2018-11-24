@@ -1,3 +1,5 @@
-img.circled
-  border-radius: 50%
-  border: 2px solid #ccc
+img.circled {
+  width: 160px;
+  border-radius: 50%;
+  border: 2px solid #ccc;
+}
