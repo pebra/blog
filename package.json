@@ -3,9 +3,10 @@
   "version": "0.0.0",
   "private": true,
   "hexo": {
-    "version": "3.4.2"
+    "version": "3.8.0"
   },
   "dependencies": {
+    "ejs": ">=2.5.5",
     "hexo": "^3.8.0",
     "hexo-deployer-rsync": "^0.1.1",
     "hexo-generator-archive": "^0.1.2",
