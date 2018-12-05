@@ -64,6 +64,7 @@ This will print your messages in a format like `<message-key>---<message-payload
 
 ### Consume messages encoded in Avro
 
+**EDIT:** The kafka-avro-console-consumer is not part of the package I linked above. It is part of the confluent suite. You can get it [here](https://www.confluent.io/download/).
 Another cool feature of Kafka is that it plays well with the [Apache Avro](http://avro.apache.org/docs/current/) format. To consume messages encoded in Avro simply run the following command to get the decoded messages.
 
 ``` bash
